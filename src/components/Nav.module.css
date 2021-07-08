@@ -1,0 +1,19 @@
+.displayFlex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.showImage30X30 {
+  width: 30px;
+  border-radius: 50px;
+}
+.links a {
+  padding: 5px;
+  text-decoration: none;
+  background: none;
+  color: #333;
+  margin-right: 5px;
+}
+.links a:last-child {
+  background-color: #aaa;
+}

@@ -1,0 +1,12 @@
+.setDivHeight50 {
+  height: 50vh;
+  background-color: #aaa;
+}
+.setPositionAbsolute {
+  position: absolute;
+  bottom: -400px;
+}
+.setFlexDirColumn {
+  flex-direction: column;
+  text-align: center;
+}

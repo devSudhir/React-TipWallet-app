@@ -1,0 +1,10 @@
+.attachBackImage {
+  background-color: #aaa;
+  height: 200vh;
+}
+.fullScreen {
+  width: 100vw;
+}
+.setPositionRelative {
+  position: relative;
+}
